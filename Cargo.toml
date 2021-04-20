@@ -1,5 +1,5 @@
 [package]
-name = "sha"
+name = "proof_of_work"
 version = "0.1.0"
 authors = ["connor <connormullett@gmail.com>"]
 edition = "2018"
@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 ring = "0.17.0-alpha.8"
 data-encoding = "2.3.2"
+rand = "0.3.3"
